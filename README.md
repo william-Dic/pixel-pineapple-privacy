@@ -21,7 +21,7 @@ The only instance of data sharing is the necessary transmission of the user-uplo
 
 ### 3. Data Security
 
-We take reasonable steps to protect your data. All data transmissions between your browser and the Google Gemini API are secured using **HTTPS encryption**. Since we do not store any user data on our servers, the risk of a data breach is significantly minimized. The Google Gemini API key is stored locally and securely within your browser's storage, which is a secure and standard practice for Chrome extensions.
+We take reasonable steps to protect your data. All data transmissions between your browser and the Google Gemini AI API are secured using **HTTPS encryption**. Since we do not store any user data on our servers, the risk of a data breach is significantly minimized. The Google Gemini API key is stored locally and securely within your browser's storage, which is a secure and standard practice for Chrome extensions.
 
 ### 4. Children's Privacy
 
@@ -35,6 +35,6 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions or concerns about this Privacy Policy, please feel free to contact us at:
 
-**[Your Contact Email Address]**
+**1700651360@qq.com**
 
 ---
